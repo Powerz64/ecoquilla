@@ -1,0 +1,32 @@
+{
+  "app_name": "ECOQUILLA SAS PRO MAX ENTERPRISES",
+  "app_version": "3.0",
+  "company_name": "ECOQUILLA SAS",
+  "city": "Barranquilla",
+  "country": "CO",
+  "security": {
+    "max_login_attempts": 3,
+    "login_block_seconds": 30,
+    "session_timeout_minutes": 120,
+    "security_level": "HIGH"
+  },
+  "analytics": {
+    "high_error_rate_threshold": 0.25,
+    "inactive_zone_days": 7,
+    "heavy_contributor_kg_threshold": 100.0,
+    "max_weight_kg": 5000.0
+  },
+  "files": {
+    "data_dir": "runtime_data",
+    "backup_dir": "backups",
+    "export_dir": "exports",
+    "db_name": "ecoquilla.db"
+  },
+  "updates": {
+    "metadata_url": "",
+    "check_on_start": true,
+    "skip_version": "",
+    "signer_subject": "ECOQUILLA SAS",
+    "signer_thumbprint": ""
+  }
+}
