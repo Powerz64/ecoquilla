@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.3/ECOQUILLA_Setup.exe",
-  "notes": "Updater fix",
+  "version": "1.0.4",
+  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.4/ECOQUILLA_Setup.exe",
+  "notes": "Critical fix: DLL error + installer replacement",
   "mandatory": false,
-  "sha256": "9a97ccadc4fb921301b84c615f9b223f91c6d7d84fe46a2f8c68af787c7e3495"
+  "sha256": "021548ECE2DDD5E0D1E835A911F221ED889241186A7DB8B40152F92C119047C6"
 }
