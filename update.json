@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.2/ECOQUILLA_Setup.exe",
-  "notes": "Update estable",
+  "version": "1.0.3",
+  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.3/ECOQUILLA_Setup.exe",
+  "notes": "Updater fix",
   "mandatory": false,
-  "sha256": "c74ce7ffbd09eadf48cb2a8a9d9b31d07f9403f749ff604f331ccaa6d0035fcf"
+  "sha256": "9a97ccadc4fb921301b84c615f9b223f91c6d7d84fe46a2f8c68af787c7e3495"
 }
