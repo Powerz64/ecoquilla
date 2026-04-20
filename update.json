@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.4/ECOQUILLA_Setup.exe",
-  "notes": "Critical fix: DLL error + installer replacement",
+  "version": "1.0.5",
+  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.5/ECOQUILLA_Setup.exe",
+  "notes": "PRO MAX+ UI improvements, better charts, layout optimization, performance upgrade",
   "mandatory": false,
-  "sha256": "bf8917e34b4448c0ccf31ceb73ec7065c6dfe0ac931e4ad1208409e6a27b0bf9"
+  "sha256": "bf891fe734b4448cbcfc31ceb73ec7065c6dfe0ac931e4ad1208409e6a27b0f9"
 }
