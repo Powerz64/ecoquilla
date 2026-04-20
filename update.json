@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.5/ECOQUILLA_Setup.exe",
-  "notes": "PRO MAX+ UI improvements, better charts, layout optimization, performance upgrade",
+  "version": "1.0.6",
+  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.0.6/ECOQUILLA_Setup.exe",
+  "notes": "Stability update: fixed build pipeline, installer validation, and updater consistency",
   "mandatory": false,
-  "sha256": "bf891fe734b4448cbcfc31ceb73ec7065c6dfe0ac931e4ad1208409e6a27b0f9"
+  "sha256": "BAD5D35781491A1A6ABAC3033A26C35CC589E4B03484B2B587179E678CCD13BB"
 }
