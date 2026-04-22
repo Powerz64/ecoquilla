@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.1.0/ECOQUILLA_Setup_v1.1.0.exe",
+  "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.1.0/ECOQUILLA.exe",
   "notes": "UI redesign, modular architecture, login/register improvements, global scroll fixes, operator mode enhancements, and overall UX polish.",
   "mandatory": false,
-  "sha256": "02bb27efc11c56b5565b0ef8059b8156a31aaeea817e44624826ce5a2b9b2b71"
+  "sha256": "8ec0fe150a9b2ac7995426f99bd3ec6e90b9ae8f4283fad5e364e69621f25d43"
 }
