@@ -3,5 +3,5 @@
   "url": "https://github.com/Powerz64/ecoquilla/releases/download/v1.1.0/ECOQUILLA.exe",
   "notes": "UI redesign, modular architecture, login/register improvements, global scroll fixes, operator mode enhancements, and overall UX polish.",
   "mandatory": false,
-  "sha256": "8ec0fe150a9b2ac7995426f99bd3ec6e90b9ae8f4283fad5e364e69621f25d43"
+  "sha256": "41aa7f53b1074155cc845d1f761522a0cf1a972971f5b22268c07137832b5b00"
 }
